@@ -30,7 +30,7 @@ Finalmente, se volvía a ejecutar el ELT, con lo cual se obtuvo el siguiente gra
 
 Note que este grafo incluye ahora el paso de preprocesamiento previamente creado.
 
-Finalmente, el árbol de ejecución, en su última corrida, muestra como todos los pasos fueron satisfactoriamente realizados:
+Finalmente, el árbol de ejecución, en su última corrida, muestra cómo todos los pasos fueron satisfactoriamente realizados:
 <img width="543" alt="arbol_preprocesamiento" src="https://user-images.githubusercontent.com/41558363/169764171-5c064efb-f95e-4cdd-91b7-7dafdf4afc88.png">
 
 **Nota:** Para ver las imágenes donde se adjunta también el usuario PostgreSQL del grupo 6, remítase a <a href="https://github.com/sofiaalvarezlopez/BI_bono_lab5/blob/main/images/Anexo_preprocesamiento_grafo.png">
